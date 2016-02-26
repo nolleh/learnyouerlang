@@ -1,4 +1,5 @@
 *.beam
 **/.DS_Store
 *.png
+*.jpg
 *.sublime-workspace
